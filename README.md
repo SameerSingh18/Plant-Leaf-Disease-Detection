@@ -20,6 +20,9 @@ This application allows users to upload a plant leaf image and get:
 
 ## 🚀 Live Demo
 
+**Live Link**
+https://sameersingh18.github.io/Plant-Leaf-Disease-Detection/
+
 **FastAPI Backend**  
 https://leaf-diseases-detect.vercel.app/
 
