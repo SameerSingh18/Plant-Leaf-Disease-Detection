@@ -20,9 +20,6 @@ This application allows users to upload a plant leaf image and get:
 
 ## 🚀 Live Demo
 
-**Streamlit App**  
-https://plants-leaf-disease-detection4u.streamlit.app/
-
 **FastAPI Backend**  
 https://leaf-diseases-detect.vercel.app/
 
@@ -144,9 +141,9 @@ http://localhost:8501
 ---
 ## 👨‍💻 Author
 
- - Divy Gupta
- - B.Tech (CSE – AI & ML)
- - GitHub: https://github.com/Divy-Gupta
+ - Sameer Singh
+ - B.Tech (AI & ML)
+ - GitHub: https://github.com/SameerSingh18
 ---
 ## 📜 License
 
